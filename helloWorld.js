@@ -346,40 +346,147 @@ document.getElementById("myButton").onclick = function () {
                             // Switch
 
 
+/*
+let grade = "";
+
+switch (grade) {
+  
+  case "A":
+    console.log("You did Great!");
+    break;
+  case "B":
+      console.log("You did Good!");
+    break;
+  case "C":
+      console.log("You did Okay!");
+    break;
+  case "D":
+      console.log("You passed ...barely!");
+    break;
+  case "F":
+      console.log("You FAILED!");
+    break;
+  default:
+    console.log(grade, "is not a letter grade!");
+}
+*/
+/*
+let grade = 44;
+
+switch (true) {
+  
+  case grade >= 90:
+    console.log("You did Great!");
+    break;
+  case grade >= 80:
+      console.log("You did Good!");
+    break;
+  case grade >= 70:
+      console.log("You did Okay!");
+    break;
+  case grade >= 60:
+      console.log("You passed ...barely!");
+    break;
+  case grade < 60:
+      console.log("You FAILED!");
+    break;
+  default:
+    console.log(grade, "is not a letter grade!");
+}
+*/
 
 
 
 
+                              // AND & OR logical operators
+
+
+/*
+let temp = 12;
+let sunny = true;
+
+if (temp >= 0 && temp < 30 && sunny){
+  console.log("The weather is good!");
+}
+else {
+  console.log("The weather is bad!");
+}
+*/
+/*
+let temp = 23;
+
+if (temp <= 0 || temp <= 30) {
+  console.log("The weather is good!");
+}
+else {
+  console.log("The weather is bad!");
+}
+*/
 
 
 
 
+                          // NOT Logical Operator
+
+
+/*
+let temp = 15;
+let sunny = false;
+
+if (!(temp > 0)) {
+  console.log("It's cold outside!");
+}
+else {
+  console.log("It's warm outside!");
+}
+
+if (!sunny) {
+  console.log("It's sunny outside!");
+}
+else{
+  console.log("It's cloudy outside!");
+}
+*/
 
 
 
+                          // Practice
+/*
+let f = 4;
+
+if (f == 4) {
+  console.log("You are in 4th floor");
+}
+console.log(4==='4');
 
 
+let n = 6;
 
 
+if(n % 2 == 0){
+  console.log("Even Number");
+}
+else {
+  console.log("odd number");
+}
 
+*/
 
+/* 
+let A = 8;
+let B = 2;
+let C = 4;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+if (B == A && A == C ) {
+  console.log("Teng");
+}
+else if(A == B || A == C || B == C) {
+  console.log(`2ta tomon teng!`);
+}
+else{
+  console.log(`har xil!`);
+}
+*/
 
 
 
