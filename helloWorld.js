@@ -249,6 +249,139 @@ console.log("Side C:", c);
                               //  String slicing
 
 
+// let fullName = "Bek Shox";
+// let firstName;
+// let lastName;
+
+// // lastName = fullName.slice(4);
+// // firstName = fullName.slice(0, 3);
+
+// firstName = fullName.slice(0, fullName.indexOf(" "));
+// lastName = fullName.slice(fullName.indexOf(" ") + 1);
+
+
+// console.log(firstName);
+// console.log(lastName);
+
+
+
+                              //  Method chaining
+
+
+// let userName = "bek";
+
+// let letter = userName.charAt(0).toUpperCase().trim();
+
+// console.log(letter);
+
+
+
+
+                              //  If Statement (basic)
+
+/*
+let age = 65;
+
+if (age >= + 65){
+    console.log("You are a Senior citizen!");
+}
+else if(age >= 18){
+  console.log("You are an Adult!");
+}
+else if(age < 0) {
+  console.log("You haven't been born yet!");
+}
+else {
+  console.log("You are child!");
+}
+
+
+let online = false;
+
+if (online) {
+  console.log("You are online!");
+}
+else {
+  console.log("You are offline!");
+}
+*/
+
+
+
+                            // Checked Property
+
+/*
+document.getElementById("myButton").onclick = function () {
+  
+  const myCheckBox = document.getElementById("myCheckBox");
+  const visaBtn = document.getElementById("visaBtn");
+  const masterBtn = document.getElementById("masterBtn");
+  const paypalBtn = document.getElementById("paypalBtn");
+
+
+
+  if (myCheckBox.checked) {
+    console.log("You are subscribed!");
+  }
+  else {
+    console.log("You are NOT subscribed!");
+  }
+
+  if(visaBtn.checked){
+    console.log("You are paying with a Visa!");
+  }
+  else if(masterBtn.checked){
+    console.log("You are paying with a MasterCard!");
+  }
+  else if(paypalBtn.checked){
+    console.log("You are paying with a PayPal!");
+  }
+  else {
+    console.log("You must select a payment type!");
+  }
+}
+*/
+
+
+                            // Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
