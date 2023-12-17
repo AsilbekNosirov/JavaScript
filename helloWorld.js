@@ -567,7 +567,60 @@ for (let i = 1; i <= rows; i += 1){
 
                         // Function
 
+/* 
+startProgram();
 
+function startProgram() {
+  let userName = "Bro";
+  let age = 21;
+  
+  happyBirthday(userName, age)
+}
+
+function happyBirthday(userName, age) {
+  console.log("Happy birthday to you!");
+  console.log("Happy birthday to you!");
+  console.log("Happy birthday dear", userName);
+  console.log("Happy birthday to you!");
+  console.log("You are", age,"years old!");
+}
+*/
+
+
+                        // Return Statement
+/* 
+let area;
+let width;
+let height;
+
+width = window.prompt("Enter width");
+height = window.prompt("Enter height");
+
+area = getArea(width, height);
+
+console.log("The area is:", area);
+
+function getArea(width, height){
+  return width * height;
+}
+*/
+
+                      // Ternary Operator(shortcut for an 'if/else statement')
+/* 
+let adult = checkAge(21);
+console.log(adult);
+
+function checkAge(age) {
+  
+  return age >= 18 ? true : false;
+}
+
+checkWinner(true);
+
+function checkWinner(win) {
+  win ? console.log("You WIN!") : console.log("You LOSE!");
+}
+*/
 
 
 
