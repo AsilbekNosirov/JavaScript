@@ -490,6 +490,88 @@ else{
 
 
 
+                            //  While loop
+
+/* 
+let userName = "";
+
+while(userName == "" || userName == null){
+  userName = window.prompt("Enter your Name");
+}
+
+console.log("Hello", userName);
+
+
+
+                           // do While loop
+
+
+let userName;
+
+do{
+  userName = window.prompt("Enter your Name");
+}while(userName == "" || userName == null)
+
+console.log("Hello", userName);
+*/
+
+
+                          //  For Loop
+
+/* 
+for(let i = 10; i > 0; i -= 1){
+  console.log(i);
+}
+
+console.log("Happy Ramadan");
+*/
+
+
+                          // Break & Continue
+
+/* 
+for (let i = 1; i <= 20; i += 1){
+  if (i == 13) {
+    // break;
+    continue;
+  }
+  console.log(i);
+}
+*/
+
+
+                        //  Nested loop
+/* 
+let symbol = window.prompt("Enter a symbol to use");
+let rows = window.prompt('Enter # of rows');
+let columns = window.prompt('Enter # of colums');
+
+for (let i = 1; i <= rows; i += 1){
+  for (let j = 1; j <= columns; j += 1){
+    document.getElementById("myRectangle").innerHTML += symbol;
+  }
+  document.getElementById('myRectangle').innerHTML += "<br>";
+}
+*/
+
+                      // Practice
+// let total = 0
+
+// for (let i = 0; i <= 100; i++) {
+//   total = total + i
+//   // console.log(i);
+// }
+
+// console.log(total);
+
+
+                        // Function
+
+
+
+
+
+
 
 
 
