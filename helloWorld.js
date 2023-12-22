@@ -623,13 +623,66 @@ function checkWinner(win) {
 */
 
 
+                    // Let vs Var
 
 
+/* 
+let name = "Bro";
+var name = "bro"
+
+doSomething();
+
+function doSomething() {
+  for (var i = 1; i <= 3; i += 1){
+    // console.log(i);
+  }
+}
+console.log(i);
+*/
 
 
+                      // Template literals
+/* 
+let userName = "Bro";
+let items = 3;
+let total = 67;
+
+// console.log("Hello", userName);
+// console.log("You have", items, "items in your cart");
+// console.log("Your total is $", total);
 
 
+// console.log(`Hello ${userName}`);
+// console.log(`You have ${items} items in your cart`);
+// console.log(`Your total is $${total}`);
 
+let text =
+`  Hello ${userName}<br>
+You have ${items} items in your cart<br>
+Your total is $${total}`;
+
+// console.log(text);
+document.getElementById("myLabel").innerHTML = text;
+*/
+
+
+                    // Format Currency(toLocalString)
+/* 
+let myNum = .01;
+
+// myNum = myNum.toLocaleString("en-US"); // US English
+// myNum = myNum.toLocaleString("hi-IN"); // Hindi
+// myNum = myNum.toLocaleString("de-DE"); // Standart German
+
+// myNum = myNum.toLocaleString("de-DE", {style: "currency", currency:"EUR"});
+// myNum = myNum.toLocaleString("uzs-UZ", {style: "currency", currency:"UZS"});
+
+// myNum = myNum.toLocaleString(undefined, { style: "percent" });
+
+myNum = myNum.toLocaleString(undefined, { style: "unit", unit: "kilogram"});
+
+console.log(myNum);
+*/
 
 
 
