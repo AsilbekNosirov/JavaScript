@@ -713,11 +713,11 @@ document.getElementById("submitButton").onclick = function () {
 
                     // Temperature conversion program
 
-
+/* 
 document.getElementById("submitButton").onclick = function () {
   
   let temp;
-
+  
   if (document.getElementById("cButton").checked) {
     temp = document.getElementById("textBox").value;
     temp = Number(temp);
@@ -733,10 +733,10 @@ document.getElementById("submitButton").onclick = function () {
   else {
     document.getElementById("tempLabel").innerHTML = "Select a unit";
   }
-
-
-
-
+  
+  
+  
+  
 }
 
 let temp = 32;
@@ -750,6 +750,60 @@ function toCelsius(temp) {
 function toFahrenheit(temp) {
   return temp * 9 / 5 + 32;
 }
+*/
+
+
+
+                        // Arrays
+
+/* 
+let fruits = ["apple", "orange", "banana"];
+
+// fruits[2] = "coconut";
+
+fruits.push("lemon");    //add an element
+fruits.pop();            //removes last element
+fruits.unshift("mango"); //add element to beginning
+fruits.shift();          //removes element from beginning
+
+let length = fruits.length;
+let index = fruits.indexOf("kiwi");
+
+console.log(index);
+*/
+
+
+
+                        // Loop through an array
+
+/* 
+let prices = [5, 10, 15, 20, 25];
+
+// for (let i = prices.length - 1; i >= 0; i -= 1){
+  //   console.log(prices[i]);
+  // }
+  
+  for (let price of prices) {
+    console.log(price);
+  }
+  */
+
+
+                        // Sort an array of strings
+
+/* 
+let fruits = ["banana", "apple", "orange", "mango"];
+
+// fruits = fruits.sort();
+fruits = fruits.sort().reverse();
+
+for (let fruit of fruits) {
+  console.log(fruit);
+}
+*/
+
+
+
 
 
 
