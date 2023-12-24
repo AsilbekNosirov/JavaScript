@@ -803,6 +803,40 @@ for (let fruit of fruits) {
 */
 
 
+                        //  2D Arrays
+
+/* 
+let fruits = ["apples", "oranges", "bananas"];
+let vegetables = ["carrots", "onions", "potatoes"];
+let meats = ["eggs", "chickens", "fish"];
+
+let groceryList = [fruits, vegetables, meats];
+
+groceryList[0][0] = "steak";
+
+for (let list of groceryList) {
+  for (let food of list) {
+    console.log(food);
+  }
+}
+*/
+
+
+                      // Spread operator
+
+/* 
+let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+let maximum = Math.max(...numbers);
+console.log(maximum);
+
+let class1 = ["Bob", "Ted", "John"];
+let class2 = ["Kylie", "Kevin", "Rose"];
+
+class1.push(...class2);
+
+console.log(...class1);
+*/
+
 
 
 
