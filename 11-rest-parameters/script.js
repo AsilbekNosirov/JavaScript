@@ -841,7 +841,7 @@ console.log(...class1);
 
                       // Rest Parameters
 
-
+/* 
 let a = 1;
 let b = 2;
 let c = 3;
@@ -857,8 +857,7 @@ function sum(x, y, ...numbers) {
   }
   return total
 }
-
-
+*/
 
 
 
