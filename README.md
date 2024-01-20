@@ -1,6 +1,7 @@
 # JS Journey
-![java-script-file-6460811-5326838](https://github.com/AsilbekNosirov/JavaScript/assets/134529632/c1cf46d0-33d9-43e5-af09-d33639b7f200)
-
+<div align=”center”>
+  ![java-script-file-6460811-5326838](https://github.com/AsilbekNosirov/JavaScript/assets/134529632/c1cf46d0-33d9-43e5-af09-d33639b7f200)
+</div>
 ### 1. [Dice Roller]([https://github.com/AsilbekNosirov/JavaScript/tree/master/dice_roller](https://github.com/AsilbekNosirov/JavaScript/tree/master/12-dice_roller)
 
 > this is random dice genarator
