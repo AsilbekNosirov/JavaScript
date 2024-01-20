@@ -1,8 +1,7 @@
 # JS Journey
 
-<div align=”center”>
-  <img align=”center” src="https://github.com/AsilbekNosirov/JavaScript/assets/134529632/c1cf46d0-33d9-43e5-af09-d33639b7f200" width="750px"/>
-</div>
+![logo](https://github.com/AsilbekNosirov/JavaScript/assets/134529632/19315ac2-21ab-42f6-8a7b-e20ace5dda84)
+
 
 ### 1. [Dice Roller](https://github.com/AsilbekNosirov/JavaScript/tree/master/12-dice_roller)
 
