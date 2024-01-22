@@ -1,6 +1,9 @@
 # JS Journey
 
-### 1. [Dice Roller]([https://github.com/AsilbekNosirov/JavaScript/tree/master/dice_roller](https://github.com/AsilbekNosirov/JavaScript/tree/master/12-dice_roller)
+![0_de0IdiUSoJTwgsys](https://github.com/AsilbekNosirov/JavaScript/assets/134529632/72120f32-ae85-4238-8053-a4e03d353b8b)
+
+
+### 1. [Dice Roller](https://github.com/AsilbekNosirov/JavaScript/tree/master/12-dice_roller)
 
 > this is random dice genarator
 
