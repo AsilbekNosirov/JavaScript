@@ -24,7 +24,7 @@
 // function display(element) {
 //     console.log(element);
 // }
-
+/*
 let fruits = ["apple", "banana", "orange", "coconut"];
 
 fruits.forEach(capitalize);
@@ -45,3 +45,18 @@ function capitalize(element, index, array) {
 function display(element) {
     console.log(element);
 }
+*/
+const names = ["bob", "popo", "lolo"];
+
+// for (let i = 0; i < names.length; i++) {
+//     console.log(`${i+1}. ${names[i]}`);
+
+// }
+
+// names.forEach((name, i) => {
+//   console.log(`${i + 1}. ${name}`);
+// });
+
+names.map((name, i) => {
+    console.log(`${i + 1}. ${name}`);
+})
