@@ -19,4 +19,4 @@
 
 > video of Digital Clock program
 
-![video](./37-Digital-Clock-Program/clock.mp4)
+![digital clock](https://github.com/AsilbekNosirov/JavaScript/assets/134529632/e1050a1c-beea-45c5-8dec-bb15836c14b2)
