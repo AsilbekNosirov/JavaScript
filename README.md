@@ -14,3 +14,9 @@
 > image of a random password
 
 ![password](https://github.com/AsilbekNosirov/JavaScript/assets/134529632/fad05d0e-4a50-42e9-a1a7-5cc1847f2024)
+
+### 3. [Digital Clock Program](https://github.com/AsilbekNosirov/JavaScript/tree/master/37-Digital-Clock-Program)
+
+> video of Digital Clock program
+
+![video](./37-Digital-Clock-Program/clock.mp4)
