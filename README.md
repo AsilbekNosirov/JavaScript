@@ -25,3 +25,7 @@
 
 >video of Stopwatch program
 
+![Stopwatch program](https://github.com/AsilbekNosirov/JavaScript/assets/134529632/30622328-86d9-4b89-bdbe-d8e386416ce4)
+
+
+
