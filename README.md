@@ -20,3 +20,8 @@
 > video of Digital Clock program
 
 ![digital clock](https://github.com/AsilbekNosirov/JavaScript/assets/134529632/e1050a1c-beea-45c5-8dec-bb15836c14b2)
+
+### 4. [Stopwatch Program](https://github.com/AsilbekNosirov/JavaScript/tree/master/38-Stopwatch-program)
+
+>video of Stopwatch program
+
