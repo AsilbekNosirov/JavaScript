@@ -27,5 +27,8 @@
 
 ![Stopwatch program](https://github.com/AsilbekNosirov/JavaScript/assets/134529632/30622328-86d9-4b89-bdbe-d8e386416ce4)
 
+### 5. [Calculator Program](https://github.com/AsilbekNosirov/JavaScript/tree/master/42-Stopwatch-program)
 
+>video of Calculator program
 
+![calculator program](https://github.com/user-attachments/assets/efe90223-1a90-476e-96f2-b73a908e5976)
